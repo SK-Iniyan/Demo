@@ -1,0 +1,16 @@
+body{
+
+
+   /* background-color: bisque;  */
+  /* background: linear-gradient(to right,#FF204E,#0C0C0C); */
+  /* background: radial-gradient(#FF204E,#0C0C0C); */
+ background-image: url(./images/bg.jpg);
+  background-size: cover;
+  background-position: center;
+  background-color: #FFF4B7;
+  background-blend-mode:multiply;
+  background-attachment:scroll;
+  }
+  p{
+    color: white;
+  }
